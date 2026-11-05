@@ -1,3 +1,3 @@
 # Calculator
 My first repository on GitHub
-HELOO Shiksha
+(New Calculator)
